@@ -10,6 +10,8 @@ Learning angular with different module, such as scope, controller or service
  * [directive隔离scope数据交互](https://blog.coding.net/blog/angularjs-directive-isolate-scope)
  * [controller之间的通信](https://www.bbsmax.com/A/Ae5RoOPAdQ/)
  * [控制器之间的数据共享和通信](https://chensd.com/2016-07/Data-share-and-communication-between-Angular-Controllers.html)
+ * [communication-in-controller](http://huangtengfei.com/2015/09/communication-in-controller/)
+ * [controller](http://www.yuanxj.net/2015/07/communicate/)
  
  
 
